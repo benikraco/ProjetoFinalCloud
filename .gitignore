@@ -30,3 +30,6 @@ override.tf.json
 
 # include terraform.tfvars if you wish to include your terraform variables in version control
 terraform.tfvars
+
+# include .terraform.lock.hcl
+.terraform.lock.hcl
