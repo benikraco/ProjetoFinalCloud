@@ -1,0 +1,41 @@
+{
+    "user": [
+        "paulao",
+        "lalala",
+        "criatruvidade"
+    ],
+    "instances": [
+        {
+            "name": "oi funfa pls",
+            "size": "small",
+            "security_group": "pqpqpq"
+        },
+        {
+            "name": "oi",
+            "size": "small",
+            "security_group": "po"
+        },
+        {
+            "name": "estruturado",
+            "size": "small",
+            "security_group": "bonito"
+        },
+        {
+            "name": "teste",
+            "size": "micro",
+            "security_group": "testandoo"
+        },
+        {
+            "name": "testestes",
+            "size": "large",
+            "security_group": "oi",
+            "regiao": "us-east-1"
+        },
+        {
+            "name": "benikraco",
+            "size": "small",
+            "security_group": "opaopa",
+            "regiao": "us-east-1"
+        }
+    ]
+}
